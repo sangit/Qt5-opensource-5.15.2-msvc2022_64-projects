@@ -5,7 +5,7 @@ These are free tools for qt-5.15.2-msvc2019_64 downloaded by qt-unified-windows-
 
 <br />
 
-## **First Technique(direct copying dlls if Qt5 isnot in path/unzipped):**##
+## **First Technique(direct copying dlls if Qt5 isnot in path/unzipped):**
 Copy the appropriate folder's all files into correct build folder where is your exe file.
 
 If some extra plugins are required copy them from Qt5's plugins\platform folder.
